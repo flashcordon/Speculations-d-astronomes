@@ -4,6 +4,7 @@
 - Ramjet de Bussard
 - Projet Orion, Daedalus
 - Voiles solaires
+- Machines de Von Neumann
 
 # Réjuvénation stellaire
 
