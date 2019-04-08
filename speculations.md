@@ -5,6 +5,7 @@
 - Pioneer
 - Rosetta
 - Sanctuary
+- Message d'Arecibo
 
 # Minage d'astéroides
 
@@ -12,6 +13,11 @@
 
 - Mars
 - Vénus
+
+# Dispositifs énergétiques
+
+- Sphère de Dyson
+- Processus de Penrose
 
 # Voyages interstellaires
 
@@ -24,10 +30,6 @@
 # Réjuvénation stellaire
 
 - Martin Beech, Hubert Reeves
-
-# Trous noirs
-
-- Processus de Penrose
 
 # Immortalité cosmologique
 
